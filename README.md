@@ -1,4 +1,4 @@
-# OpenCore for Asus z390p prime motherboard (Docummentation in progress)
+# OpenCore for Asus z390-p prime motherboard (Docummentation in progress)
 
 Custom bootloader for z390p prime motherboard 
 
